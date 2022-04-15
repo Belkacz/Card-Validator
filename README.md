@@ -26,7 +26,7 @@ u can chcek how it works just by press run.
 
 
 ### Open Card Validator Node
-Card-Validator-Node.js is created to opne in Node on ur computer. This code is littele diff, beacuse of prompt in Node.js (i used v14.18.3) dont work the same as on replity or ur browser.]
+Card-Validator-Node.js is created to open in NodeJS on ur terminal. This code is little difference, beacuse prompt in Node.js (i used v14.18.3) dont work the same as on replity or ur browser.
 to open this one u need download repo by:
 ```
 git clone https://github.com/Belkacz/Card-Validator
