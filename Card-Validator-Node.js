@@ -144,11 +144,11 @@ function checkProvadier(
   console.log(
     "Walidator kart sprwadza porpawność kart, w momencie odaplenia sprawdza nr. przekazany do funkcji w formie:"
   );
-  cardValidtor(5193080150954111, ); //mastercard
-  cardValidtor(4012888888881881, ); //visa
-  cardValidtor(378282246310005, ); //amercianexpress
-  cardValidtor(519308015095411, ); //niepoprawna
-  cardValidtor(5111111111111111, ); //niepoprawna
+  cardValidtor(5193080150954111); //mastercard
+  cardValidtor(4012888888881881); //visa
+  cardValidtor(378282246310005); //amercianexpress
+  cardValidtor(519308015095411); //niepoprawna
+  cardValidtor(5111111111111111); //niepoprawna
   console.log("W przypadku braku karty program poprosi o nią:");
   cardValidtor( "" ,true); //podaj nr. karty
   
